@@ -6,9 +6,9 @@ It works by adding reaction to our FIlo relay bot messages, which can then be us
 - Release the relay immediately.
 - Hold or cancel the relay.
 - Deleting the relay should it be deemed inaccurate.
-Should none of the reaction be clicked Lial will release the relay.
+Should none of the reaction be clicked Lial will release the relay after a set time have passed.
 
-Use cases for this bot include crowd and congestion control, and to give time to organize
+Use cases for this bot include crowd and congestion control, and to give time to organize.
 
 ## Privacy Policy
 ### Data Collection and Retention
