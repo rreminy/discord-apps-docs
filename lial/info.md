@@ -8,7 +8,7 @@ It works by adding reaction to our FIlo relay bot messages, which can then be us
 - Deleting the relay should it be deemed inaccurate.
 Should none of the reaction be clicked Lial will release the relay.
 
-Use cases for this bot include crowd and congestion control across FFXIV servers, and to give time to organize
+Use cases for this bot include crowd and congestion control, and to give time to organize
 
 ## Privacy Policy
 ### Data Collection and Retention
