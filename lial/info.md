@@ -17,6 +17,7 @@ No data is collected nor retained by this app.
 ### Logging
 Logging is performed into a private discord channel for moderation purposes, which are to ensure its functionality are not abused in unintended ways.
 
+## Intents
 ### Why do you need the Message Content intent?
 The relay message contents from Filo are parsed, which once released are then copied into a new post at a public relay channel for our discord members.
 
