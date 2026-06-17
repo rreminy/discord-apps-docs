@@ -8,18 +8,16 @@ It works by adding reaction to our FIlo relay bot messages, which can then be us
 - Deleting the relay should it be deemed inaccurate.
 Should none of the reaction be clicked Lial will release the relay.
 
-Use cases for this bot include crowd and congestion control across FFXIV servers, and to give time for spawners to organize.
+Use cases for this bot include crowd and congestion control across FFXIV servers, and to give time to organize
 
 ## Privacy Policy
 ### Data Collection and Retention
 No data is collected nor retained by this app.
 
-
 ### Logging
 Logging is performed into a private discord channel for moderation purposes, which are to ensure its functionality are not abused in unintended ways.
-
 
 ### Why do you need the Message Content intent?
 The relay message contents from Filo are parsed, which once released are then copied into a new post at a public relay channel for our discord members.
 
-No user messages are processed
+No user messages are processed.
